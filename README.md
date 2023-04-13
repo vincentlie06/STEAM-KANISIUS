@@ -8,6 +8,7 @@ Library yang dibutuhkan:
 <li>matplotlib</li>
 <li>time (sudah otomatis terinstall)</li>
 <li>serial</li>
+<li>tensofrlow</li>
 </ol>
 Dibutuhkan pula instalasi python terbaru dan arduino IDE. <br>
 Penjelasan file: <br>
